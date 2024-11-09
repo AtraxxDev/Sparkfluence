@@ -25,7 +25,7 @@ header nav {
 }
 
 header .logo img {
-    height: 50px; /* Ajusta el tamaño del logo */
+    height: 50px; 
     width: auto;
 }
 
@@ -193,7 +193,7 @@ footer {
     }
 
     header .logo img {
-        height: 40px; /* Ajusta el tamaño del logo en pantallas más pequeñas */
+        height: 40px;
     }
 }
 
@@ -216,6 +216,6 @@ footer {
     }
 
     header .logo img {
-        height: 30px; /* Ajusta aún más el tamaño del logo */
+        height: 30px;
     }
 }
